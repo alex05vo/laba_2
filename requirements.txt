@@ -1,1 +1,5 @@
+## Команда для вствновлення пакету
+
 to install package i used command git install num2word==1.0.1
+
+
