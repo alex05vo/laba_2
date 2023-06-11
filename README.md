@@ -12,3 +12,4 @@ to switch between branches i used command $ git checkout lab_2_2
 
 there is no changes in this branch because we used a new created branch called lab_2_2
 
+![6368782c7bef3](https://github.com/alex05vo/laba_2/assets/127955545/314c8615-fe24-41f1-bd20-9da2448f7aac)
