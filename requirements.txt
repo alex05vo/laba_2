@@ -1,1 +1,1 @@
-num2word==1.0.1
+to install package i used command git install num2word==1.0.1
